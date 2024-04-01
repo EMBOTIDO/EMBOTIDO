@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://www.canva.com/design/DAGBItW0Pz8/1jdwmZbF4hC5yuyBOQZY4A/edit?utm_content=DAGBItW0Pz8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+    <img src="https://github.com/a-crinkles/profile-readme-generator/assets/165613303/bd20656c-8118-4329-8576-44cc82f8af67" alt="Banner">
+  </a>
+</div>
+
 # 💫 About Me:
 Hi I'm Nico Enriquez<br>
 
