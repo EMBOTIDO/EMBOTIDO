@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a college student<br>⚡ my hobby is playing basketball
+Hi I'm Nico Enriquez<br>
 
 
 ## 🌐 Socials:
