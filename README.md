@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/EMBOTIDO/EMBOTIDO/master/Green Watercolour Opening Soon Banner.JPG" />
+  <img src="https://raw.githubusercontent.com/EMBOTIDO/EMBOTIDO/master/Green Watercolour Opening Soon Banner.jpg" />
 </div>
 # 💫 About Me:
 Hi I'm Nico Enriquez<br>
